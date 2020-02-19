@@ -1,0 +1,4 @@
+when dragging the mouse,sleep every X ticks (the lower the slower)
+20
+folder of mozilla firefox profile (for lichess login) example: iqczx549.default-1541590852403
+cxs6dg4g.default-release
